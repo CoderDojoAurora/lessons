@@ -1,1 +1,1 @@
-# lessons
+# Lessons for CoderDojo Aurora
